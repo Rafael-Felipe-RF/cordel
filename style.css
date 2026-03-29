@@ -23,7 +23,7 @@ header, footer{
     color: var(--texto-cabecalho-footer); /*cor da letra do cabeçalho e do rodapé*/
 }
 
-body section{
+section{
     margin: 15px 0 15px 0;
     text-align: center; /*alinhamento do texto do cabecalho e do rodapé*/
     line-height: 25px; /*espaço entre as linhas*/
@@ -63,7 +63,7 @@ footer a{ /*estilização do link do rodapé*/
         background-color: rgba(255, 255, 255, 0.664);
         width: 70vw;
         margin: 15px;
-        padding: 5px;
+        padding: 10px;
     }
 
     #imagem1 {
@@ -100,7 +100,7 @@ footer a{ /*estilização do link do rodapé*/
         background-color: rgba(255, 255, 255, 0.664);
         width: 85vw;
         margin: 15px;
-        padding: 5px;
+        padding: 10px;
     }
 
     #imagem1 {
